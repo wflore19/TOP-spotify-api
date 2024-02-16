@@ -1,7 +1,5 @@
 # Spotify API React UI
 
-[Live URL](https://spotify-api-react.vercel.app/)
-
 ## Dependencies
 
 - axios 0.27.2
